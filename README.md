@@ -14,5 +14,5 @@ If the User folder doesn't exist, create it ASAP, then copy the snippet there.
 
 NOTE: for assets, images and scripts the better way to store them would be un a CDN. For integrating scripts would be useful to search here https://cdnjs.com/ and implement the url into 
 
-E.g.: <script src="url" type="text/javascript"></script>
+E.g.: \<script src="url" type="text/javascript"\> \</script\>
 
