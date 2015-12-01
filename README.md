@@ -6,7 +6,7 @@ In this templates I had initialized to create a functional HTML boilerplate, rea
 
 Also, ships with cdn pointing to jquery and modernizr javascript libraries.
 
-If you don't like something, just remove it ASAP.
+--->If you don't like something, just remove it ASAP.
 
 
 
@@ -15,7 +15,6 @@ There is a sublime snippet which triggers the template just by typing HTMLinti+T
 The sublime snippet must be added inside sublime by: Sublime>Preferences>BrowsePackages>User>Copy here.
 If the User folder doesn't exist, create it and copy the snippet there.
 
-If the User folder doesn't exist, create it ASAP, then copy the snippet there.
 
 #Happy coding :)
 
