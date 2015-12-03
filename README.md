@@ -11,7 +11,8 @@ Also, ships with cdn pointing to jquery and modernizr javascript libraries.
 
 
 
-There is a sublime snippet which triggers the template just by typing 
+The trigger for the code snippet is:
+
 **tabTrigger** : `HTMLinit`
  
 You can change the trigger name inside the setup.sublime-snippet on <tabTrigger>YOUR-TRIGGERNAME</tabTrigger> (located on the end of the page).
